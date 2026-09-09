@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Lab 4: Develop a dynamic SPA (Single Page Application) using React.js.
+ - SETUP FOR LAB 4:
+- Step 1: Create React App
+- (------->  npx create-react-app react-spa-app   <-------)
+- (------------->    cd react-spa-app   <------------)
+- Step 2: Install React Router DOM
+- (-------------------->    npm install react-router-dom <------------)
+- Step 3: Replace the Source Files
+- Replace the contents of the src/ folder with the files provided above.
+- Step 4: Start the Application
+- bash:
+- (--------------->    npm start <------------------)
